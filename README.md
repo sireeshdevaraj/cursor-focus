@@ -18,3 +18,6 @@ python3 keyboard_listener.py
 ```
 
 + You can add the `keyboard_listener.py` to your Action trigger if you are on windows.
+
+Example:
+![example image](example.png)
